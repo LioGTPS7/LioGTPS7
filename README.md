@@ -1,6 +1,6 @@
 <img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/5a131c36-ab13-4cff-955d-29267b91b677" />
 
-### <img src="https://github.com/mezotv/discord-badges/blob/main/assets/supportscommands.svg" width="25" height="25" style="vertical-align: center;" /> <span style="vertical-align: center;">Languages and Tools</span>
+### <width="25" height="25" style="vertical-align: center;" /> <span style="vertical-align: center;">Languages and Tools</span>
 
 
 <p align="center">
